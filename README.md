@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FerMoreno98
-- 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning java
+- 👀 I’m interested in web development 
+- 🌱 I’m currently learning .NET
 - 💞️ I’m looking to collaborate on open source proyects in which i can practice all i've been learning
 - 📫 How to reach me fmorenomarzal@gmail.com
 .
